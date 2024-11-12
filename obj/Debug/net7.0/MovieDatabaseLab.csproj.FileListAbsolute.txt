@@ -1,0 +1,15 @@
+/Users/tomk/Projects/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab
+/Users/tomk/Projects/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.deps.json
+/Users/tomk/Projects/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.runtimeconfig.json
+/Users/tomk/Projects/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.dll
+/Users/tomk/Projects/MovieDatabaseLab/bin/Debug/net7.0/MovieDatabaseLab.pdb
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.csproj.AssemblyReference.cache
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.AssemblyInfoInputs.cache
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.AssemblyInfo.cs
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.dll
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/refint/MovieDatabaseLab.dll
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.pdb
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/MovieDatabaseLab.genruntimeconfig.cache
+/Users/tomk/Projects/MovieDatabaseLab/obj/Debug/net7.0/ref/MovieDatabaseLab.dll
